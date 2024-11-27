@@ -126,7 +126,7 @@ h2{
     width: 17vw;
     height: 40vh;
 }
-.lamarck h3{
+.lamarck p{
     width: 60%;
     color: white;
     font-size: 30px;
@@ -144,7 +144,7 @@ h2{
     width: 17vw;
     height: 40vh;
 }
-.darwin h3{
+.darwin p{
     width: 60%;
     color: rgb(0, 29, 20);
     font-size: 30px;
