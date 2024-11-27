@@ -226,6 +226,9 @@ h2{
 }
 /***********************************************************/
 
+/*
+    MATERIAL
+*/
 #material{
     background-color: rgb(0, 29, 20);
 }
@@ -250,4 +253,52 @@ h2{
     height: 80%;
     width: 30%;
     border-radius: 34px;
+    gap: 15px;
+}
+#foto1{
+    height: 50%;
+    width: 100%;
+    background-image: url(./img/material1.png);
+    background-size: cover;
+    border-top-left-radius: 34px;
+    border-top-right-radius: 34px;
+    background-repeat: no-repeat;
+}
+#foto2{
+    height: 50%;
+    width: 100%;
+    background-image: url(./img/material2.png);
+    background-size: cover;
+    border-top-left-radius: 34px;
+    border-top-right-radius: 34px;
+    background-repeat: no-repeat;
+}
+.estudos h2{
+    color: rgb(0, 29, 20);
+    font-size: 3rem;
+    padding: 20px;
+}
+.estudos p{
+    color: rgb(0, 29, 20);
+    font-size: 1.5rem;
+    padding: 20px;
+}
+.estudos .vermais{
+    background-color: #07AB2C;
+    color: white;
+    font-size: 1.5rem;
+    padding: 1rem;
+    width: 25%;
+    height: 5%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5%;
+}
+/*******************************************/
+
+
+@media screen {
+    
 }
